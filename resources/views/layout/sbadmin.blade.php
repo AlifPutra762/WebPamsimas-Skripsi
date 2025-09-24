@@ -28,7 +28,7 @@
         integrity="sha256-9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI=" crossorigin="anonymous" />
     <!--end::Third Party Plugin(Bootstrap Icons)-->
     <!--begin::Required Plugin(AdminLTE)-->
-    <link rel="stylesheet" href="{{ asset('templates/dist/css/adminlte.css') }}" />
+    <script src="https://webpamsimas-skripsi-production.up.railway.app/templates/dist/js/adminlte.js"></script>
     <!--end::Required Plugin(AdminLTE)-->
 
     <!-- Select2 CSS -->
