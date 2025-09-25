@@ -23,6 +23,9 @@ class DatabaseSeeder extends Seeder
         // Panggil AdminSeeder
         $this->call([
             AdminSeeder::class,
+            AbonemenSeeder::class,
+            PengaturanSeeder::class,
+            TarifSeeder::class,
         ]);
     }
 }
